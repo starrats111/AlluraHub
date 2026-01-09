@@ -137,3 +137,5 @@ Update the `categoryNames` object in `js/data.js` to modify category labels.
 
 This project is created for demonstration purposes. Feel free to use and modify as needed.
 
+
+
